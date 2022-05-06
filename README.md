@@ -11,3 +11,5 @@
 - kahou_palatte
   - palatte.act。パレットファイル。
   - palatte.bmp。ACTに対応してない環境(yukariなど)用にパレットと同一のインデックスカラーを持つbmp。
+  
+- https://将星録.jp/?page=nobu_mod_img_kahou
